@@ -112,6 +112,7 @@ public class Student {
 // \d student
 
 //Test Post Request
+//POST
 //{
 // "name":"Jeremy",
 // "email":"jeremy@gmail.com",
@@ -128,4 +129,10 @@ public class Student {
 //How to send post request using Postman
 //https://stackoverflow.com/questions/29364862/how-to-send-post-request-to-the-below-post-method-using-postman-rest-client/43108437
 
-//Video Stopped at 1:13:47
+//DELETE student with ID1
+//http://localhost:8080/api/v1/student/1
+//PUT
+//http://localhost:8080/api/v1/student/1?name=Maria&email=maria.tan@gmail.com
+
+//Link: https://www.youtube.com/watch?v=9SGDpanrc8U
+//Time Stopped: 1:29:48
